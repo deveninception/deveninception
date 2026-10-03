@@ -9,12 +9,12 @@
 <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
   <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
     <td align="left" style="padding: 10px 14px; font-family: monospace; color: #8b949e; font-size: 14px;">
-      🔴 🟡 🟢 &nbsp; <b>deveninception@root:~#</b> ./profile_story.sh
+      🔴 🟡 🟢 &nbsp; <b>deveninception@root:~#</b> ./brand_profile.sh
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 24px 18px; background-color: #0d1117;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=800&lines=Agile+delivery+leadership;Team+enablement;Clarity+through+execution;Practical+problem+solving" alt="typing animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=800&lines=Agile+delivery+leadership;Team+enablement;Delivery+clarity;Visible+execution" alt="typing animation" />
     </td>
   </tr>
 </table>
@@ -42,25 +42,25 @@
 
 </div>
 
-## 🧭 Profile Overview
+## 🧭 About Me
 
-I help teams make complex work easier to plan, discuss, and verify. My focus is on clearer ownership, practical delivery habits, useful reporting, and surfacing risk early enough to act on it.
+I help teams turn complexity into clear delivery. My focus is on practical leadership, stronger planning habits, visible progress, and early risk awareness so teams can move with confidence.
 
-I work at the intersection of:
-- Agile delivery leadership
-- Team enablement and facilitation
-- Delivery visibility and reporting
-- Continuous improvement and workflow clarity
+I work across:
+- Agile delivery and team enablement
+- Sprint clarity and decision support
+- Delivery reporting and visibility
+- Workflow improvement and continuous learning
 
 ---
 
-## 🏗️ My Core Practice
+## 🏗️ How I Work
 
 - Create clarity around priorities, dependencies, and decisions
 - Help teams work in a sustainable and visible way
 - Improve planning, reviews, and follow-through
-- Make progress and risk easier to understand
-- Turn team activity into actionable delivery insight
+- Make progress, risk, and execution easier to understand
+- Translate activity into meaningful delivery insight
 
 ---
 
@@ -75,22 +75,22 @@ I work at the intersection of:
   <img src="https://img.shields.io/badge/Focus-Delivery_Leadership-7dd3fc?style=flat-square&labelColor=0d1117" />
 </div>
 
-> Private work, delivery activity, and professional project context.
+> Professional delivery work, review materials, and private project context.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> [deveninception](https://github.com/deveninception/deveninception)
 
 <div align="left">
   <img src="https://img.shields.io/badge/Type-Public_Profile-7dd3fc?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Use-Portfolio_Landing-7dd3fc?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Use-Brand_Identity-7dd3fc?style=flat-square&labelColor=0d1117" />
 </div>
 
-> Public-safe profile space for visibility, profile presentation, and central links.
+> Public profile landing page for my profile, positioning, and central links.
 
 </div>
 
 ---
 
-## ⚙️ What I Bring
+## ⚙️ Core Strengths
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
   <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
