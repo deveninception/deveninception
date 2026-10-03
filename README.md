@@ -1,245 +1,157 @@
 <div align="center">
 
-<!-- Hero Image -->
-<a href="https://github.com/deveninception">
-  <img src="https://img.shields.io/badge/Agile%20Delivery%20Leadership-7dd3fc?style=for-the-badge&labelColor=0d1117&logo=github" width="100%" alt="Deven Kashyap Hero" />
-</a>
+<!-- Hero Section -->
+<h1 style="margin: 0; padding: 20px; font-size: 32px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); color: #7dd3fc; font-weight: 700; letter-spacing: 1px;">
+  🎯 DELIVERY LEADERSHIP
+</h1>
 
-<br/><br/>
-
-<!-- Simulated Terminal UI for Mission Statement -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
-  <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
-    <td align="left" style="padding: 8px 12px; font-family: monospace; color: #8b949e; font-size: 14px;">
-      🔴 🟡 🟢 &nbsp; <b>deveninception@root:~#</b> ./deliver_clarity.sh
-    </td>
-  </tr>
-  <tr style="background-color: #0d1117;">
-    <td align="center" style="padding: 20px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=800&lines=Agile+Delivery+Leadership;Team+Enablement;Delivery+Visibility" alt="Mission Statement" />
-    </td>
-  </tr>
-</table>
+<p style="color: #8b949e; font-size: 16px; margin: 15px 0; font-style: italic;">
+  Strategic clarity • Team enablement • Measurable outcomes
+</p>
 
 <br/>
 
-<!-- Bento Box Grid: Badges & Key Metrics -->
-<table width="100%" style="border: none;">
-  <tr>
-    <!-- Badges Column -->
-    <td width="30%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/Leadership-Agile_Delivery-0d1117?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=000000" alt="Agile Delivery" /><br/><br/>
-      <img src="https://img.shields.io/badge/Focus-Team_Enablement-0d1117?style=for-the-badge&logo=githubactions&logoColor=7dd3fc&labelColor=000000" alt="Team Enablement" /><br/><br/>
-      <img src="https://img.shields.io/badge/Expertise-Sprint_Clarity-0d1117?style=for-the-badge&logo=notion&logoColor=7dd3fc&labelColor=000000" alt="Sprint Clarity" />
-    </td>
-    <!-- Stats Column -->
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=deveninception&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=8b949e&icon_color=7dd3fc" alt="GitHub Stats" />
-    </td>
-    <!-- Focus Areas Column -->
-    <td width="35%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/Planning-Sprint_Strategy-0d1117?style=for-the-badge&logo=gitbook&logoColor=7dd3fc&labelColor=000000" alt="Sprint Strategy" /><br/><br/>
-      <img src="https://img.shields.io/badge/Delivery-Risk_Visibility-0d1117?style=for-the-badge&logo=gitlab&logoColor=7dd3fc&labelColor=000000" alt="Risk Visibility" /><br/><br/>
-      <img src="https://img.shields.io/badge/Approach-Continuous_Improvement-0d1117?style=for-the-badge&logo=githubcopilot&logoColor=7dd3fc&labelColor=000000" alt="Continuous Improvement" />
-    </td>
-  </tr>
-</table>
-
----
-
 </div>
 
-## 🎯 The Delivery Engine
+## The Delivery Engine
 
-I bridge the gap between organizational strategy and team execution. Clarity is the foundation. Before a sprint is planned, I establish shared understanding of priorities, dependencies, and success metrics that enable teams to execute with confidence.
+I bridge organizational strategy and team execution through **structured clarity**. Every sprint begins with aligned understanding of priorities, dependencies, and measurable success criteria.
+
+### The Flow
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#7dd3fc', 'primaryBorderColor': '#30363d', 'lineColor': '#8b949e', 'fontFamily': 'monospace'}}}%%
+%%{init: {'theme': 'default', 'themeVariables': { 'primaryColor': '#1f6feb', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#0d47a1', 'lineColor': '#58a6ff', 'secondBkgColor': '#0d1117', 'tertiaryTextColor': '#ffffff'}, 'flowchart': {'useMaxWidth': true, 'htmlLabels': true}}}%%
 graph TD
-    classDef critical fill:#450a0a,stroke:#f87171,stroke-width:2px,color:#fff;
-    classDef success fill:#064e3b,stroke:#34d399,stroke-width:2px,color:#fff;
-    classDef process fill:#161b22,stroke:#7dd3fc,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
-    classDef guard fill:#161b22,stroke:#fca5a5,stroke-width:1px,color:#fff;
-
-    A[Chaotic Team Workflow]:::critical -->|1. Root Cause Analysis| B(Current State Mapping)
-    B -->|Identify Friction| C(Delivery Blueprint)
+    A["📋 Current State"] -->|Analysis| B["🔍 Identify Gaps"]
+    B -->|Planning| C["🎯 Define Goals"]
+    C -->|Execution| D["⚡ Build Momentum"]
+    D -->|Tracking| E["✅ Measure Progress"]
+    E -->|Improve| F["🚀 Deliver Impact"]
     
-    C --> D{Clarity & Decision Router}:::process
-    D -->|Strategic Planning| E[Sprint Goals & Outcomes]:::process
-    D -->|Team Enablement| F[Role Clarity & Ownership]:::process
-    D -->|Delivery Visibility| G[Progress & Risk Reporting]:::process
-    
-    E --> H[Continuous Team Improvement]:::guard
-    F --> H
-    G --> H
-    
-    H -->|Sustainable Execution| I([High-Trust Delivery]):::success
+    style A fill:#1f6feb,stroke:#58a6ff,stroke-width:2px,color:#fff
+    style B fill:#2c974b,stroke:#3fb950,stroke-width:2px,color:#fff
+    style C fill:#1f6feb,stroke:#58a6ff,stroke-width:2px,color:#fff
+    style D fill:#9e6a03,stroke:#d29922,stroke-width:2px,color:#fff
+    style E fill:#2c974b,stroke:#3fb950,stroke-width:2px,color:#fff
+    style F fill:#1f6feb,stroke:#58a6ff,stroke-width:2px,color:#fff
 ```
 
 ---
 
 ## 🏗️ Core Delivery Practice
 
-Below are the key pillars of my delivery leadership methodology. Every principle is tested against real-world team dynamics and delivery outcomes.
-
-<br>
-
 ### 🎯 Strategic Clarity & Planning
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Method-Agile_Planning-7dd3fc?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Focus-Dependency_Mapping-7dd3fc?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Output-Sprint_Strategy-7dd3fc?style=flat-square&labelColor=0d1117" />
-</div>
+**The Challenge:** Teams start work without shared understanding of priorities, dependencies, or success criteria.
 
-> **The Challenge:** Teams lack clear understanding of priorities, dependencies, and success criteria. Work starts without shared ownership or measurable goals.
-> 
-> **The Approach:** A structured planning framework that establishes shared visibility. Every sprint window has explicit goals, clear role ownership, and measurable outcomes. Dependencies are mapped early, and success criteria are agreed before execution begins.
+**The Approach:** Structured planning that establishes crystal-clear visibility before execution begins.
 
 ```mermaid
+%%{init: {'theme': 'default', 'themeVariables': { 'primaryColor': '#1f6feb', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#0d47a1', 'lineColor': '#58a6ff', 'tertiaryTextColor': '#ffffff'}, 'sequence': {'useMaxWidth': true}}}%%
 sequenceDiagram
-    autonumber
-    participant T as Team Lead
-    participant SM as Scrum Master
-    participant A as Stakeholders
-    participant E as Execution Team
-
-    T->>SM: Request Sprint Planning Support
-    SM->>A: Clarify Priorities & Dependencies
-    A-->>SM: Return Business Context
-    SM->>E: Facilitate Goal-Setting Session
-    E-->>SM: Confirm Commitment & Capacity
-    SM->>T: Deliver Sprint Plan & Risk Map
-    T-->>E: Kick-off Sprint with Clarity
+    participant TL as Team Lead
+    participant PM as Product Manager
+    participant Dev as Dev Team
+    
+    TL->>PM: Clarify priorities
+    PM->>PM: Map dependencies
+    PM->>Dev: Share context
+    Dev->>Dev: Confirm capacity
+    Dev->>TL: Ready to execute
 ```
-
-<br>
 
 ### 👥 Team Enablement & Sustainable Pace
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Focus-Team_Health-7dd3fc?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Method-Continuous_Coaching-7dd3fc?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Outcome-Sustainable_Velocity-7dd3fc?style=flat-square&labelColor=0d1117" />
-</div>
+**The Challenge:** Teams burn out from context switching, lack process discipline, and fear surfacing risks.
 
-> **The Challenge:** Teams burn out because they lack process discipline, carry excessive context switching, or lack psychological safety to raise risks early.
-> 
-> **The Approach:** A coaching-based model that enables teams to improve without claiming their work. I facilitate retros, support retrospective actions, coach on estimation and planning, and create space for continuous improvement conversations.
+**The Approach:** Coaching-based improvement that builds psychological safety and sustainable velocity.
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'lineColor': '#7dd3fc'}}}%%
+%%{init: {'theme': 'default', 'themeVariables': { 'primaryColor': '#238636', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#0d47a1', 'lineColor': '#3fb950', 'tertiaryTextColor': '#ffffff'}, 'stateDiagram': {'useMaxWidth': true}}}%%
 stateDiagram-v2
-    [*] --> TeamHealth
-    TeamHealth --> SprintExecution: Establish Clarity
-    SprintExecution --> Risk_Surface: Identify Blockers
-    Risk_Surface --> Retrospective: Sprint Reflection
-    Retrospective --> Improvement: Coach Process Changes
-    Improvement --> TeamHealth: Close the Loop
+    [*] --> Planning
+    Planning --> Execution: Kickoff
+    Execution --> Monitoring: Track
+    Monitoring --> Retrospective: Reflect
+    Retrospective --> Improvement: Coach
+    Improvement --> Planning: Next cycle
 ```
-
-<br>
 
 ### 📊 Delivery Visibility & Reporting
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Method-Evidence_Based-7dd3fc?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Focus-Risk_Management-7dd3fc?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Output-Actionable_Insights-7dd3fc?style=flat-square&labelColor=0d1117" />
-</div>
+**The Challenge:** Leadership lacks actionable insight into delivery. Risk is hidden until it's too late.
 
-> **The Challenge:** Leadership lacks actionable insight into team delivery. Status reports are disconnected from actual execution. Risk is hidden until it's too late to act.
-> 
-> **The Approach:** A transparent reporting model that connects activity to measurable outcomes. Every report shows goals, completion status, emerging risks, and blocked dependencies. Reports are tied to business outcomes, not just task counts.
+**The Approach:** Transparent reporting connecting activity to business outcomes in real-time.
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'commitLabelColor': '#000', 'commitLabelBackground': '#7dd3fc'}}}%%
-gitGraph
-    commit id: "Sprint Starts"
-    branch planning
-    checkout planning
-    commit id: "Establish Goals" type: HIGHLIGHT
-    commit id: "Map Dependencies"
-    checkout main
-    merge planning id: "Sprint Goal Clarity"
-    commit id: "Daily Execution Tracking"
-    branch risks
-    checkout risks
-    commit id: "Identify Blockers"
-    commit id: "Raise Early" type: HIGHLIGHT
-    checkout main
-    merge risks id: "Risk Mitigation"
-    commit id: "Sprint Complete - Outcomes Tracked"
-```
+<table width="100%" style="border-collapse: collapse; margin: 25px 0; background: #ffffff;">
+  <tr style="background: linear-gradient(90deg, #238636 0%, #1f6feb 100%); border: none;">
+    <th style="padding: 15px; color: white; font-weight: 600; font-size: 13px; text-align: center; border: none;">PHASE</th>
+    <th style="padding: 15px; color: white; font-weight: 600; font-size: 13px; text-align: center; border: none;">STATUS</th>
+    <th style="padding: 15px; color: white; font-weight: 600; font-size: 13px; text-align: center; border: none;">ACTION</th>
+  </tr>
+  <tr style="border-bottom: 1px solid #d0d7de;">
+    <td style="padding: 15px; text-align: center; color: #0d1117; font-weight: 600;">📋 Goals Set</td>
+    <td style="padding: 15px; text-align: center; color: #238636; font-weight: 600;">✅ Aligned</td>
+    <td style="padding: 15px; text-align: center; color: #57606a; font-size: 13px;">Priorities clear, dependencies mapped</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #d0d7de;">
+    <td style="padding: 15px; text-align: center; color: #0d1117; font-weight: 600;">⚡ Execution</td>
+    <td style="padding: 15px; text-align: center; color: #1f6feb; font-weight: 600;">🚀 In Progress</td>
+    <td style="padding: 15px; text-align: center; color: #57606a; font-size: 13px;">Daily tracking, momentum building</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #d0d7de;">
+    <td style="padding: 15px; text-align: center; color: #0d1117; font-weight: 600;">⚠️ Risk Surface</td>
+    <td style="padding: 15px; text-align: center; color: #d29922; font-weight: 600;">🔔 Alert</td>
+    <td style="padding: 15px; text-align: center; color: #57606a; font-size: 13px;">Blockers identified, mitigation planned</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #d0d7de;">
+    <td style="padding: 15px; text-align: center; color: #0d1117; font-weight: 600;">✅ Resolution</td>
+    <td style="padding: 15px; text-align: center; color: #238636; font-weight: 600;">✅ Unblocked</td>
+    <td style="padding: 15px; text-align: center; color: #57606a; font-size: 13px;">Risk mitigated, execution resumes</td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; text-align: center; color: #0d1117; font-weight: 600;">🎯 Delivered</td>
+    <td style="padding: 15px; text-align: center; color: #238636; font-weight: 600;">✨ Success</td>
+    <td style="padding: 15px; text-align: center; color: #57606a; font-size: 13px;">Outcomes tracked, lessons captured</td>
+  </tr>
+</table>
 
 ---
 
-## ⚙️ Delivery Leadership Stack
+## ⚙️ Leadership Practice Stack
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
-  <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
-    <th align="center" style="padding: 15px; color: #7dd3fc; width: 33%;">Leadership Practice</th>
-    <th align="center" style="padding: 15px; color: #7dd3fc; width: 34%;">Team Enablement</th>
-    <th align="center" style="padding: 15px; color: #7dd3fc; width: 33%;">Delivery Outcomes</th>
+<table width="100%" style="border-collapse: collapse; border: none; margin: 30px 0;">
+  <tr style="background: linear-gradient(90deg, #1f6feb 0%, #238636 50%, #d29922 100%); border: none;">
+    <th style="padding: 20px; color: #ffffff; font-weight: 600; font-size: 14px; text-align: center; border: none;">STRATEGIC PLANNING</th>
+    <th style="padding: 20px; color: #ffffff; font-weight: 600; font-size: 14px; text-align: center; border: none;">TEAM ENABLEMENT</th>
+    <th style="padding: 20px; color: #ffffff; font-weight: 600; font-size: 14px; text-align: center; border: none;">DELIVERY OUTCOMES</th>
   </tr>
   <tr>
-    <!-- Col 1 -->
-    <td align="center" valign="top" style="padding: 20px 10px; border-right: 1px solid #30363d;">
-      <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect x="8" y="8" width="44" height="44" rx="4" fill="#7dd3fc" stroke="#0d1117" stroke-width="2"/>
-        <line x1="15" y1="18" x2="45" y2="18" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
-        <line x1="15" y1="28" x2="45" y2="28" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
-        <line x1="15" y1="38" x2="45" y2="38" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
-        <circle cx="12" cy="18" r="2" fill="#0d1117"/>
-        <circle cx="12" cy="28" r="2" fill="#0d1117"/>
-        <circle cx="12" cy="38" r="2" fill="#0d1117"/>
-      </svg><br/><br/>
-      <code>Strategic Planning</code><br/>
-      <code>Sprint Facilitation</code><br/>
-      <code>Dependency Mapping</code>
+    <td style="padding: 25px; background: #f6f8fa; color: #0d1117; border: 1px solid #d0d7de; text-align: center; vertical-align: top;">
+      <div style="font-size: 32px; margin-bottom: 12px;">📋</div>
+      <strong style="display: block; margin: 10px 0; color: #1f6feb; font-size: 15px;">Sprint Planning</strong>
+      <small style="color: #57606a; line-height: 1.6;">Aligned goals & dependencies<br/>Clear role ownership<br/>Measurable success criteria</small>
     </td>
-    <!-- Col 2 -->
-    <td align="center" valign="top" style="padding: 20px 10px; border-right: 1px solid #30363d;">
-      <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="20" cy="20" r="10" fill="#7dd3fc" stroke="#0d1117" stroke-width="2"/>
-        <circle cx="40" cy="20" r="10" fill="#7dd3fc" stroke="#0d1117" stroke-width="2"/>
-        <circle cx="15" cy="42" r="8" fill="#7dd3fc" stroke="#0d1117" stroke-width="2"/>
-        <circle cx="45" cy="42" r="8" fill="#7dd3fc" stroke="#0d1117" stroke-width="2"/>
-        <path d="M 20 30 L 15 34" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
-        <path d="M 40 30 L 45 34" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
-        <path d="M 20 30 L 45 34" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
-        <path d="M 40 30 L 15 34" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
-      </svg><br/><br/>
-      <code>Coaching & Mentoring</code><br/>
-      <code>Process Improvement</code><br/>
-      <code>Psychological Safety</code>
+    <td style="padding: 25px; background: #f6f8fa; color: #0d1117; border: 1px solid #d0d7de; text-align: center; vertical-align: top;">
+      <div style="font-size: 32px; margin-bottom: 12px;">🤝</div>
+      <strong style="display: block; margin: 10px 0; color: #238636; font-size: 15px;">Process Coaching</strong>
+      <small style="color: #57606a; line-height: 1.6;">Continuous improvement<br/>Psychological safety<br/>Risk visibility</small>
     </td>
-    <!-- Col 3 -->
-    <td align="center" valign="top" style="padding: 20px 10px;">
-      <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <polyline points="10,45 15,30 20,35 28,15 35,28 42,20 50,8" stroke="#7dd3fc" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-        <circle cx="10" cy="45" r="2" fill="#7dd3fc"/>
-        <circle cx="15" cy="30" r="2" fill="#7dd3fc"/>
-        <circle cx="20" cy="35" r="2" fill="#7dd3fc"/>
-        <circle cx="28" cy="15" r="2" fill="#7dd3fc"/>
-        <circle cx="35" cy="28" r="2" fill="#7dd3fc"/>
-        <circle cx="42" cy="20" r="2" fill="#7dd3fc"/>
-        <circle cx="50" cy="8" r="2" fill="#7dd3fc"/>
-        <line x1="10" y1="50" x2="50" y2="50" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
-      </svg><br/><br/>
-      <code>Visibility & Reporting</code><br/>
-      <code>Risk Management</code><br/>
-      <code>Measurable Progress</code>
+    <td style="padding: 25px; background: #f6f8fa; color: #0d1117; border: 1px solid #d0d7de; text-align: center; vertical-align: top;">
+      <div style="font-size: 32px; margin-bottom: 12px;">📊</div>
+      <strong style="display: block; margin: 10px 0; color: #d29922; font-size: 15px;">Transparent Reporting</strong>
+      <small style="color: #57606a; line-height: 1.6;">Evidence-based insights<br/>Blockers surfaced early<br/>Business outcome focus</small>
     </td>
   </tr>
 </table>
 
 ---
 
-<div align="center" style="padding: 30px 0 10px;">
-  <h3>🚀 Delivering Clarity, Enabling Teams, Building Trust</h3>
-</div>
-
-<div align="center">
-  <sub style="color:#8b949e; font-family: monospace;">[ Execution with clarity. Delivery with visibility. ]</sub>
+<div align="center" style="padding: 40px 0;">
+  <h3 style="color: #7dd3fc; font-size: 18px; letter-spacing: 0.5px; margin: 0;">
+    🚀 EXECUTION WITH CLARITY • DELIVERY WITH VISIBILITY
+  </h3>
+  <p style="color: #8b949e; font-size: 13px; margin: 15px 0 0 0; font-family: monospace;">
+    Trusted delivery leadership grounded in agile practices & team dynamics
+  </p>
 </div>
