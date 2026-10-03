@@ -1,157 +1,120 @@
 <div align="center">
 
-<!-- Hero Section -->
-<h1 style="margin: 0; padding: 20px; font-size: 32px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); color: #7dd3fc; font-weight: 700; letter-spacing: 1px;">
-  🎯 DELIVERY LEADERSHIP
-</h1>
+  <img src="https://raw.githubusercontent.com/deveninception/deveninception/main/assets/branding/hero-pro.png" alt="Deven Kashyap" width="100%" />
 
-<p style="color: #8b949e; font-size: 16px; margin: 15px 0; font-style: italic;">
-  Strategic clarity • Team enablement • Measurable outcomes
-</p>
+  <p style="margin-top: 22px; margin-bottom: 8px; color: #f0f6fc; font-size: 18px; letter-spacing: 0.18em; text-transform: uppercase; font-weight: 700;">
+    Delivery Leadership
+  </p>
 
-<br/>
+  <p style="margin: 0; color: #8b949e; font-size: 15px; font-family: monospace;">
+    Strategic clarity. Team enablement. Measurable execution.
+  </p>
 
 </div>
 
-## The Delivery Engine
+## Overview
 
-I bridge organizational strategy and team execution through **structured clarity**. Every sprint begins with aligned understanding of priorities, dependencies, and measurable success criteria.
-
-### The Flow
+I connect business strategy to team execution through structured clarity. Before work begins, I align priorities, dependencies, ownership, and success criteria so delivery can move with confidence and minimal friction.
 
 ```mermaid
-%%{init: {'theme': 'default', 'themeVariables': { 'primaryColor': '#1f6feb', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#0d47a1', 'lineColor': '#58a6ff', 'secondBkgColor': '#0d1117', 'tertiaryTextColor': '#ffffff'}, 'flowchart': {'useMaxWidth': true, 'htmlLabels': true}}}%%
-graph TD
-    A["📋 Current State"] -->|Analysis| B["🔍 Identify Gaps"]
-    B -->|Planning| C["🎯 Define Goals"]
-    C -->|Execution| D["⚡ Build Momentum"]
-    D -->|Tracking| E["✅ Measure Progress"]
-    E -->|Improve| F["🚀 Deliver Impact"]
-    
-    style A fill:#1f6feb,stroke:#58a6ff,stroke-width:2px,color:#fff
-    style B fill:#2c974b,stroke:#3fb950,stroke-width:2px,color:#fff
-    style C fill:#1f6feb,stroke:#58a6ff,stroke-width:2px,color:#fff
-    style D fill:#9e6a03,stroke:#d29922,stroke-width:2px,color:#fff
-    style E fill:#2c974b,stroke:#3fb950,stroke-width:2px,color:#fff
-    style F fill:#1f6feb,stroke:#58a6ff,stroke-width:2px,color:#fff
+%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Segoe UI, Arial, sans-serif', 'primaryColor': '#0d1117', 'primaryTextColor': '#f0f6fc', 'primaryBorderColor': '#7dd3fc', 'lineColor': '#7dd3fc', 'secondaryColor': '#161b22', 'tertiaryColor': '#0d1117', 'background': '#0d1117'}}}%%
+flowchart TD
+    A[Current state] -->|diagnose| B[Gap analysis]
+    B -->|align| C[Goal clarity]
+    C -->|enable| D[Ownership model]
+    D -->|track| E[Progress & risk visibility]
+    E -->|refine| F[Delivered outcomes]
+
+    classDef node fill:#161b22,stroke:#7dd3fc,stroke-width:1.5px,color:#f0f6fc;
+    classDef end fill:#0d1117,stroke:#7dd3fc,stroke-width:1.5px,color:#7dd3fc;
+    class A,B,C,D,E node;
+    class F end;
 ```
 
 ---
 
-## 🏗️ Core Delivery Practice
+## Core Delivery Practice
 
-### 🎯 Strategic Clarity & Planning
+### Strategic Clarity & Planning
 
-**The Challenge:** Teams start work without shared understanding of priorities, dependencies, or success criteria.
-
-**The Approach:** Structured planning that establishes crystal-clear visibility before execution begins.
+Teams often start execution without shared understanding of priorities, dependencies, or success metrics. I bring structure to planning so the work is aligned before sprint commitments are made.
 
 ```mermaid
-%%{init: {'theme': 'default', 'themeVariables': { 'primaryColor': '#1f6feb', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#0d47a1', 'lineColor': '#58a6ff', 'tertiaryTextColor': '#ffffff'}, 'sequence': {'useMaxWidth': true}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Segoe UI, Arial, sans-serif', 'primaryColor': '#0d1117', 'primaryTextColor': '#f0f6fc', 'primaryBorderColor': '#7dd3fc', 'lineColor': '#7dd3fc', 'background': '#0d1117'}}}%%
 sequenceDiagram
-    participant TL as Team Lead
+    autonumber
+    participant T as Team Lead
     participant PM as Product Manager
-    participant Dev as Dev Team
-    
-    TL->>PM: Clarify priorities
-    PM->>PM: Map dependencies
-    PM->>Dev: Share context
-    Dev->>Dev: Confirm capacity
-    Dev->>TL: Ready to execute
+    participant D as Delivery Team
+
+    T->>PM: Define priorities
+    PM->>D: Share dependencies and context
+    D->>T: Confirm capacity and commitment
+    T->>D: Finalize sprint plan
+    D->>T: Clear execution path and risks
 ```
 
-### 👥 Team Enablement & Sustainable Pace
+### Team Enablement & Sustainable Pace
 
-**The Challenge:** Teams burn out from context switching, lack process discipline, and fear surfacing risks.
-
-**The Approach:** Coaching-based improvement that builds psychological safety and sustainable velocity.
+The challenge is not only delivery speed, but sustainable execution. I support teams with coaching, process discipline, and a working environment where risk is raised early instead of hidden.
 
 ```mermaid
-%%{init: {'theme': 'default', 'themeVariables': { 'primaryColor': '#238636', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#0d47a1', 'lineColor': '#3fb950', 'tertiaryTextColor': '#ffffff'}, 'stateDiagram': {'useMaxWidth': true}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Segoe UI, Arial, sans-serif', 'primaryColor': '#0d1117', 'primaryTextColor': '#f0f6fc', 'primaryBorderColor': '#7dd3fc', 'lineColor': '#7dd3fc', 'background': '#0d1117'}}}%%
 stateDiagram-v2
-    [*] --> Planning
-    Planning --> Execution: Kickoff
-    Execution --> Monitoring: Track
-    Monitoring --> Retrospective: Reflect
-    Retrospective --> Improvement: Coach
-    Improvement --> Planning: Next cycle
+    [*] --> Focus
+    Focus --> Execution
+    Execution --> RiskSurface
+    RiskSurface --> Retrospective
+    Retrospective --> Improvement
+    Improvement --> Focus
 ```
 
-### 📊 Delivery Visibility & Reporting
+### Delivery Visibility & Reporting
 
-**The Challenge:** Leadership lacks actionable insight into delivery. Risk is hidden until it's too late.
+Leadership needs more than progress updates. It needs evidence, a clear risk picture, and decisions grounded in real execution data.
 
-**The Approach:** Transparent reporting connecting activity to business outcomes in real-time.
-
-<table width="100%" style="border-collapse: collapse; margin: 25px 0; background: #ffffff;">
-  <tr style="background: linear-gradient(90deg, #238636 0%, #1f6feb 100%); border: none;">
-    <th style="padding: 15px; color: white; font-weight: 600; font-size: 13px; text-align: center; border: none;">PHASE</th>
-    <th style="padding: 15px; color: white; font-weight: 600; font-size: 13px; text-align: center; border: none;">STATUS</th>
-    <th style="padding: 15px; color: white; font-weight: 600; font-size: 13px; text-align: center; border: none;">ACTION</th>
-  </tr>
-  <tr style="border-bottom: 1px solid #d0d7de;">
-    <td style="padding: 15px; text-align: center; color: #0d1117; font-weight: 600;">📋 Goals Set</td>
-    <td style="padding: 15px; text-align: center; color: #238636; font-weight: 600;">✅ Aligned</td>
-    <td style="padding: 15px; text-align: center; color: #57606a; font-size: 13px;">Priorities clear, dependencies mapped</td>
-  </tr>
-  <tr style="border-bottom: 1px solid #d0d7de;">
-    <td style="padding: 15px; text-align: center; color: #0d1117; font-weight: 600;">⚡ Execution</td>
-    <td style="padding: 15px; text-align: center; color: #1f6feb; font-weight: 600;">🚀 In Progress</td>
-    <td style="padding: 15px; text-align: center; color: #57606a; font-size: 13px;">Daily tracking, momentum building</td>
-  </tr>
-  <tr style="border-bottom: 1px solid #d0d7de;">
-    <td style="padding: 15px; text-align: center; color: #0d1117; font-weight: 600;">⚠️ Risk Surface</td>
-    <td style="padding: 15px; text-align: center; color: #d29922; font-weight: 600;">🔔 Alert</td>
-    <td style="padding: 15px; text-align: center; color: #57606a; font-size: 13px;">Blockers identified, mitigation planned</td>
-  </tr>
-  <tr style="border-bottom: 1px solid #d0d7de;">
-    <td style="padding: 15px; text-align: center; color: #0d1117; font-weight: 600;">✅ Resolution</td>
-    <td style="padding: 15px; text-align: center; color: #238636; font-weight: 600;">✅ Unblocked</td>
-    <td style="padding: 15px; text-align: center; color: #57606a; font-size: 13px;">Risk mitigated, execution resumes</td>
-  </tr>
-  <tr>
-    <td style="padding: 15px; text-align: center; color: #0d1117; font-weight: 600;">🎯 Delivered</td>
-    <td style="padding: 15px; text-align: center; color: #238636; font-weight: 600;">✨ Success</td>
-    <td style="padding: 15px; text-align: center; color: #57606a; font-size: 13px;">Outcomes tracked, lessons captured</td>
-  </tr>
-</table>
+| Phase | Status | Purpose |
+| --- | --- | --- |
+| Goals set | Aligned | Briefs establish scope, outcomes, and ownership |
+| Execution | Active | Work proceeds with clear priorities and decisions |
+| Risk surface | Visible | Blockers, dependencies, and escalations are surfaced early |
+| Mitigation | Managed | Actions reduce drag and restore momentum |
+| Delivery | Confirmed | Outcomes are measured against the original intent |
 
 ---
 
-## ⚙️ Leadership Practice Stack
+## Leadership Practice Stack
 
-<table width="100%" style="border-collapse: collapse; border: none; margin: 30px 0;">
-  <tr style="background: linear-gradient(90deg, #1f6feb 0%, #238636 50%, #d29922 100%); border: none;">
-    <th style="padding: 20px; color: #ffffff; font-weight: 600; font-size: 14px; text-align: center; border: none;">STRATEGIC PLANNING</th>
-    <th style="padding: 20px; color: #ffffff; font-weight: 600; font-size: 14px; text-align: center; border: none;">TEAM ENABLEMENT</th>
-    <th style="padding: 20px; color: #ffffff; font-weight: 600; font-size: 14px; text-align: center; border: none;">DELIVERY OUTCOMES</th>
+<table width="100%" style="border-collapse: collapse; background: #0d1117; border: 1px solid #30363d; margin-top: 18px;">
+  <tr style="background: #161b22;">
+    <th align="center" style="padding: 18px; color: #7dd3fc; width: 33%; border-bottom: 1px solid #30363d;">Strategic Planning</th>
+    <th align="center" style="padding: 18px; color: #7dd3fc; width: 34%; border-bottom: 1px solid #30363d;">Team Enablement</th>
+    <th align="center" style="padding: 18px; color: #7dd3fc; width: 33%; border-bottom: 1px solid #30363d;">Delivery Outcomes</th>
   </tr>
   <tr>
-    <td style="padding: 25px; background: #f6f8fa; color: #0d1117; border: 1px solid #d0d7de; text-align: center; vertical-align: top;">
-      <div style="font-size: 32px; margin-bottom: 12px;">📋</div>
-      <strong style="display: block; margin: 10px 0; color: #1f6feb; font-size: 15px;">Sprint Planning</strong>
-      <small style="color: #57606a; line-height: 1.6;">Aligned goals & dependencies<br/>Clear role ownership<br/>Measurable success criteria</small>
+    <td align="center" valign="top" style="padding: 20px 12px; border-right: 1px solid #30363d; color: #f0f6fc;">
+      <div style="font-size: 30px; margin-bottom: 10px;">•</div>
+      Sprint planning<br/>
+      Dependency mapping<br/>
+      Governance clarity
     </td>
-    <td style="padding: 25px; background: #f6f8fa; color: #0d1117; border: 1px solid #d0d7de; text-align: center; vertical-align: top;">
-      <div style="font-size: 32px; margin-bottom: 12px;">🤝</div>
-      <strong style="display: block; margin: 10px 0; color: #238636; font-size: 15px;">Process Coaching</strong>
-      <small style="color: #57606a; line-height: 1.6;">Continuous improvement<br/>Psychological safety<br/>Risk visibility</small>
+    <td align="center" valign="top" style="padding: 20px 12px; border-right: 1px solid #30363d; color: #f0f6fc;">
+      <div style="font-size: 30px; margin-bottom: 10px;">•</div>
+      Coaching and mentoring<br/>
+      Process improvement<br/>
+      Team resilience
     </td>
-    <td style="padding: 25px; background: #f6f8fa; color: #0d1117; border: 1px solid #d0d7de; text-align: center; vertical-align: top;">
-      <div style="font-size: 32px; margin-bottom: 12px;">📊</div>
-      <strong style="display: block; margin: 10px 0; color: #d29922; font-size: 15px;">Transparent Reporting</strong>
-      <small style="color: #57606a; line-height: 1.6;">Evidence-based insights<br/>Blockers surfaced early<br/>Business outcome focus</small>
+    <td align="center" valign="top" style="padding: 20px 12px; color: #f0f6fc;">
+      <div style="font-size: 30px; margin-bottom: 10px;">•</div>
+      Visibility and reporting<br/>
+      Risk management<br/>
+      Measurable progress
     </td>
   </tr>
 </table>
 
 ---
 
-<div align="center" style="padding: 40px 0;">
-  <h3 style="color: #7dd3fc; font-size: 18px; letter-spacing: 0.5px; margin: 0;">
-    🚀 EXECUTION WITH CLARITY • DELIVERY WITH VISIBILITY
-  </h3>
-  <p style="color: #8b949e; font-size: 13px; margin: 15px 0 0 0; font-family: monospace;">
-    Trusted delivery leadership grounded in agile practices & team dynamics
-  </p>
+<div align="center" style="padding: 30px 0 12px;">
+  <sub style="color:#8b949e; font-family: monospace;">Execution with clarity. Delivery with visibility.</sub>
 </div>
