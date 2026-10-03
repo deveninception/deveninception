@@ -185,21 +185,48 @@ gitGraph
   <tr>
     <!-- Col 1 -->
     <td align="center" valign="top" style="padding: 20px 10px; border-right: 1px solid #30363d;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="60" alt="Clipboard" /><br/><br/>
+      <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="8" y="8" width="44" height="44" rx="4" fill="#7dd3fc" stroke="#0d1117" stroke-width="2"/>
+        <line x1="15" y1="18" x2="45" y2="18" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+        <line x1="15" y1="28" x2="45" y2="28" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+        <line x1="15" y1="38" x2="45" y2="38" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+        <circle cx="12" cy="18" r="2" fill="#0d1117"/>
+        <circle cx="12" cy="28" r="2" fill="#0d1117"/>
+        <circle cx="12" cy="38" r="2" fill="#0d1117"/>
+      </svg><br/><br/>
       <code>Strategic Planning</code><br/>
       <code>Sprint Facilitation</code><br/>
       <code>Dependency Mapping</code>
     </td>
     <!-- Col 2 -->
     <td align="center" valign="top" style="padding: 20px 10px; border-right: 1px solid #30363d;">
-       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="60" alt="Team" /><br/><br/>
+      <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="20" cy="20" r="10" fill="#7dd3fc" stroke="#0d1117" stroke-width="2"/>
+        <circle cx="40" cy="20" r="10" fill="#7dd3fc" stroke="#0d1117" stroke-width="2"/>
+        <circle cx="15" cy="42" r="8" fill="#7dd3fc" stroke="#0d1117" stroke-width="2"/>
+        <circle cx="45" cy="42" r="8" fill="#7dd3fc" stroke="#0d1117" stroke-width="2"/>
+        <path d="M 20 30 L 15 34" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+        <path d="M 40 30 L 45 34" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+        <path d="M 20 30 L 45 34" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+        <path d="M 40 30 L 15 34" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+      </svg><br/><br/>
       <code>Coaching & Mentoring</code><br/>
       <code>Process Improvement</code><br/>
       <code>Psychological Safety</code>
     </td>
     <!-- Col 3 -->
     <td align="center" valign="top" style="padding: 20px 10px;">
-       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="60" alt="Chart" /><br/><br/>
+      <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <polyline points="10,45 15,30 20,35 28,15 35,28 42,20 50,8" stroke="#7dd3fc" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="10" cy="45" r="2" fill="#7dd3fc"/>
+        <circle cx="15" cy="30" r="2" fill="#7dd3fc"/>
+        <circle cx="20" cy="35" r="2" fill="#7dd3fc"/>
+        <circle cx="28" cy="15" r="2" fill="#7dd3fc"/>
+        <circle cx="35" cy="28" r="2" fill="#7dd3fc"/>
+        <circle cx="42" cy="20" r="2" fill="#7dd3fc"/>
+        <circle cx="50" cy="8" r="2" fill="#7dd3fc"/>
+        <line x1="10" y1="50" x2="50" y2="50" stroke="#0d1117" stroke-width="2" stroke-linecap="round"/>
+      </svg><br/><br/>
       <code>Visibility & Reporting</code><br/>
       <code>Risk Management</code><br/>
       <code>Measurable Progress</code>
