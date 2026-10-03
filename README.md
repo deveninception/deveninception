@@ -1,76 +1,47 @@
 <h1 align="center">Hi, I'm Deven Kashyap 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Developer;Problem+Solver;Continuous+Learner;Building+Practical+Solutions" />
-</p>
-
-<p align="center">
-  I build software and solutions that turn ideas into clear, usable outcomes. I enjoy learning, improving workflows, and collaborating on work that has real impact.
-</p>
-
-<p align="center">
-  <a href="https://github.com/deveninception">GitHub</a>
-  ·
-  <a href="https://github.com/deveninception/Deven-Kashyap">Private Work</a>
-  ·
-  <a href="https://github.com/deveninception/deveninception">Profile Repo</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Software+Developer;Problem+Solver;Continuous+Learner;Building+Practical+Solutions" alt="typing animation" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 🚀 About Me
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deveninception&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveninception&layout=compact&theme=tokyonight" />
-</p>
+I build software and solutions that turn ideas into clear, usable outcomes. I enjoy learning, improving workflows, and collaborating on work that has real impact.
 
----
-
-<h2 align="center">📁 My Repositories</h2>
-
-<p align="center">
-  <a href="https://github.com/deveninception/Deven-Kashyap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deveninception&repo=Deven-Kashyap&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/deveninception/deveninception">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deveninception&repo=deveninception&theme=tokyonight" />
-  </a>
-</p>
-
-### All repositories
-
-- [deveninception/Deven-Kashyap](https://github.com/deveninception/Deven-Kashyap) — private project work and development activity
-- [deveninception/deveninception](https://github.com/deveninception/deveninception) — public profile and portfolio landing page
+**💼 Currently:** Developing at Inception42.ai  
+**🎯 Focus:** Building practical, maintainable solutions  
+**📚 Mindset:** Clear communication, thoughtful execution, and trustworthy code  
 
 ---
 
-<h2 align="center">💡 Focus</h2>
+## 📁 My Repositories
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Development-Software%20Engineering-8A2BE2" />
-  <img src="https://img.shields.io/badge/Workflow-Collaboration-00C7B7" />
-  <img src="https://img.shields.io/badge/Approach-Problem%20Solving-FF7F50" />
-</p>
+### Featured Projects
 
-<p align="center">
-  I care about clear communication, thoughtful execution, and building solutions that are useful, maintainable, and easy to trust.
-</p>
+| Repository | Description |
+|-----------|-------------|
+| **[Deven-Kashyap](https://github.com/deveninception/Deven-Kashyap)** | Private project work and development activity |
+| **[deveninception](https://github.com/deveninception/deveninception)** | Public profile and portfolio landing page |
 
 ---
 
-<h2 align="center">🤝 Connect</h2>
+## 💡 What I Value
+
+- **Clear Communication** — Establishing shared understanding and making decisions visible
+- **Problem Solving** — Breaking down complex work into actionable steps
+- **Collaboration** — Working effectively with teams to ship real outcomes
+- **Continuous Learning** — Always improving skills and exploring new approaches
+
+---
+
+## 🤝 Let's Connect
+
+👉 **[Visit my GitHub](https://github.com/deveninception)**
+
+---
 
 <p align="center">
-  <a href="https://github.com/deveninception">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Thanks for visiting my GitHub profile.</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deveninception&color=blueviolet&style=flat-square" />
+  <em>Thanks for visiting. Let's build something meaningful together.</em>
 </p>
