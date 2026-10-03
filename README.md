@@ -1,12 +1,14 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 50px 20px; border-radius: 8px; margin-bottom: 30px;">
 
-  <img src="https://raw.githubusercontent.com/deveninception/deveninception/main/assets/branding/hero-pro.png" alt="Deven Kashyap" width="100%" />
+  <h1 style="margin: 0 0 10px 0; color: #7dd3fc; font-size: 28px; letter-spacing: 0.1em; font-weight: 700; text-transform: uppercase;">
+    Deven Kashyap
+  </h1>
 
-  <p style="margin-top: 22px; margin-bottom: 6px; color: #f0f6fc; font-size: 20px; letter-spacing: 0.08em; font-weight: 600;">
+  <p style="margin: 0 0 8px 0; color: #f0f6fc; font-size: 18px; letter-spacing: 0.08em; font-weight: 600;">
     DELIVERY LEADERSHIP & EXECUTION
   </p>
 
-  <p style="margin: 0 0 28px 0; color: #8b949e; font-size: 14px; font-family: monospace;">
+  <p style="margin: 0; color: #8b949e; font-size: 13px; font-family: monospace;">
     Strategy into execution. Clarity before commitment.
   </p>
 
@@ -95,6 +97,6 @@ Leadership needs actionable intelligence, not activity reports. Evidence-based c
 
 ---
 
-<div align="center" style="padding: 36px 0 10px;">
+<div align="center" style="padding: 40px 0 10px;">
   <sub style="color:#8b949e; font-family: monospace; font-size: 12px;">Execution with clarity. Delivery with visibility.</sub>
 </div>
