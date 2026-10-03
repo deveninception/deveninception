@@ -2,7 +2,7 @@
 
 <!-- Hero Image -->
 <a href="https://github.com/deveninception">
-  <img src="https://raw.githubusercontent.com/deveninception/deveninception/main/assets/branding/hero-pro.png" width="100%" alt="Deven Kashyap Hero" />
+  <img src="https://img.shields.io/badge/Agile%20Delivery%20Leadership-7dd3fc?style=for-the-badge&labelColor=0d1117&logo=github" width="100%" alt="Deven Kashyap Hero" />
 </a>
 
 <br/><br/>
@@ -16,7 +16,7 @@
   </tr>
   <tr style="background-color: #0d1117;">
     <td align="center" style="padding: 20px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=800&lines=Agile+Delivery+Leadership;Team+Enablement;Delivery+Clarity;Visible+Execution" alt="typing animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7dd3fc&center=true&vCenter=true&width=800&lines=Agile+Delivery+Leadership;Team+Enablement;Delivery+Visibility" alt="Mission Statement" />
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@
 
 ## 🎯 The Delivery Engine
 
-I bridge the gap between organizational strategy and team execution. Clarity is the foundation. Before a sprint is planned, I establish shared understanding of priorities, dependencies, and success metrics—ensuring every team member moves with confidence and visibility.
+I bridge the gap between organizational strategy and team execution. Clarity is the foundation. Before a sprint is planned, I establish shared understanding of priorities, dependencies, and success metrics that enable teams to execute with confidence.
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryTextColor': '#7dd3fc', 'primaryBorderColor': '#30363d', 'lineColor': '#8b949e', 'fontFamily': 'monospace'}}}%%
@@ -94,7 +94,7 @@ Below are the key pillars of my delivery leadership methodology. Every principle
 
 > **The Challenge:** Teams lack clear understanding of priorities, dependencies, and success criteria. Work starts without shared ownership or measurable goals.
 > 
-> **The Approach:** A structured planning framework that establishes shared visibility. Every sprint window has explicit goals, clear role ownership, and measurable outcomes. Dependencies are mapped early; risks are surfaced before they block execution.
+> **The Approach:** A structured planning framework that establishes shared visibility. Every sprint window has explicit goals, clear role ownership, and measurable outcomes. Dependencies are mapped early, and success criteria are agreed before execution begins.
 
 ```mermaid
 sequenceDiagram
@@ -125,7 +125,7 @@ sequenceDiagram
 
 > **The Challenge:** Teams burn out because they lack process discipline, carry excessive context switching, or lack psychological safety to raise risks early.
 > 
-> **The Approach:** A coaching-based model that enables teams to improve without claiming their work. I facilitate retros, support retrospective actions, coach on estimation and planning, and create space for teams to talk about capacity and sustainable pace.
+> **The Approach:** A coaching-based model that enables teams to improve without claiming their work. I facilitate retros, support retrospective actions, coach on estimation and planning, and create space for continuous improvement conversations.
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'lineColor': '#7dd3fc'}}}%%
@@ -150,7 +150,7 @@ stateDiagram-v2
 
 > **The Challenge:** Leadership lacks actionable insight into team delivery. Status reports are disconnected from actual execution. Risk is hidden until it's too late to act.
 > 
-> **The Approach:** A transparent reporting model that connects activity to measurable outcomes. Every report shows goals, completion status, emerging risks, and blocked dependencies. Reports are tied to verifiable sources so they remain trustworthy and actionable.
+> **The Approach:** A transparent reporting model that connects activity to measurable outcomes. Every report shows goals, completion status, emerging risks, and blocked dependencies. Reports are tied to business outcomes, not just task counts.
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'commitLabelColor': '#000', 'commitLabelBackground': '#7dd3fc'}}}%%
@@ -185,21 +185,21 @@ gitGraph
   <tr>
     <!-- Col 1 -->
     <td align="center" valign="top" style="padding: 20px 10px; border-right: 1px solid #30363d;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="60" /><br/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="60" alt="Clipboard" /><br/><br/>
       <code>Strategic Planning</code><br/>
       <code>Sprint Facilitation</code><br/>
       <code>Dependency Mapping</code>
     </td>
     <!-- Col 2 -->
     <td align="center" valign="top" style="padding: 20px 10px; border-right: 1px solid #30363d;">
-       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="60" /><br/><br/>
+       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Holding%20Hands.png" width="60" alt="Team" /><br/><br/>
       <code>Coaching & Mentoring</code><br/>
       <code>Process Improvement</code><br/>
       <code>Psychological Safety</code>
     </td>
     <!-- Col 3 -->
     <td align="center" valign="top" style="padding: 20px 10px;">
-       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="60" /><br/><br/>
+       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="60" alt="Chart" /><br/><br/>
       <code>Visibility & Reporting</code><br/>
       <code>Risk Management</code><br/>
       <code>Measurable Progress</code>
@@ -210,9 +210,7 @@ gitGraph
 ---
 
 <div align="center" style="padding: 30px 0 10px;">
-  <a href="https://github.com/deveninception">
-    <img src="https://raw.githubusercontent.com/deveninception/deveninception/main/assets/branding/footer.png" width="60%" alt="Footer Branding" />
-  </a>
+  <h3>🚀 Delivering Clarity, Enabling Teams, Building Trust</h3>
 </div>
 
 <div align="center">
