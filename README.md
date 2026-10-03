@@ -2,11 +2,11 @@
 
   <img src="https://raw.githubusercontent.com/deveninception/deveninception/main/assets/branding/hero-pro.png" alt="Deven Kashyap" width="100%" />
 
-  <p style="margin-top: 24px; margin-bottom: 6px; color: #f0f6fc; font-size: 20px; letter-spacing: 0.05em; font-weight: 600;">
-    Delivery Leadership & Execution
+  <p style="margin-top: 22px; margin-bottom: 6px; color: #f0f6fc; font-size: 20px; letter-spacing: 0.08em; font-weight: 600;">
+    DELIVERY LEADERSHIP & EXECUTION
   </p>
 
-  <p style="margin: 0 0 28px 0; color: #8b949e; font-size: 14px;">
+  <p style="margin: 0 0 28px 0; color: #8b949e; font-size: 14px; font-family: monospace;">
     Strategy into execution. Clarity before commitment.
   </p>
 
@@ -14,43 +14,74 @@
 
 ---
 
-## Approach
+## Overview
 
-I connect business strategy to team execution through **structured clarity**. Before work begins, I establish shared understanding of priorities, dependencies, ownership, and success criteria. This foundation enables teams to deliver with confidence and minimal organizational friction.
+I connect business strategy to team execution through structured clarity. Before work begins, I align priorities, dependencies, ownership, and success criteria so delivery can move with confidence and minimal friction.
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Segoe UI, Arial, sans-serif', 'primaryColor': '#0d1117', 'primaryTextColor': '#f0f6fc', 'primaryBorderColor': '#7dd3fc', 'lineColor': '#7dd3fc', 'secondaryColor': '#161b22', 'tertiaryColor': '#0d1117', 'background': '#0d1117'}}}%%
+flowchart LR
+    A[Current state] -->|diagnose| B[Gap analysis]
+    B -->|align| C[Goal clarity]
+    C -->|enable| D[Ownership model]
+    D -->|track| E[Progress visibility]
+    E -->|refine| F[Delivered outcomes]
+
+    classDef node fill:#161b22,stroke:#7dd3fc,stroke-width:1.5px,color:#f0f6fc;
+    classDef outcome fill:#0d1117,stroke:#7dd3fc,stroke-width:1.5px,color:#7dd3fc;
+    class A,B,C,D,E node;
+    class F outcome;
+```
 
 ---
 
-## Core Pillars
+## Core Practice
 
 ### Strategic Clarity & Planning
 
-Teams often begin execution without shared understanding of priorities, dependencies, or measurable success criteria. I establish planning discipline through structured alignment before sprint commitments are made.
+Teams often begin execution without shared understanding of priorities, dependencies, or measurable success criteria. I establish planning discipline before sprint commitments are made.
 
-**What this means:**
-- Clear priority hierarchy across competing demands
-- Dependency mapping and risk surfaces identified upfront
-- Ownership explicitly defined so decisions don't stall
-- Success metrics established so progress is measurable
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Segoe UI, Arial, sans-serif', 'primaryColor': '#0d1117', 'primaryTextColor': '#f0f6fc', 'primaryBorderColor': '#7dd3fc', 'lineColor': '#7dd3fc', 'background': '#0d1117'}}}%%
+sequenceDiagram
+    autonumber
+    participant T as Team Lead
+    participant PM as Product Manager
+    participant D as Delivery Team
+
+    T->>PM: Define priorities
+    PM->>D: Share dependencies and context
+    D->>T: Confirm capacity and commitment
+    T->>D: Finalize sprint plan
+    D->>T: Clear execution path and risks
+```
 
 ### Team Enablement & Sustainable Pace
 
-Delivery speed is hollow without sustainability. I work with teams on process discipline, decision frameworks, and creating psychological safety where risk is raised early instead of hidden until crisis.
+The challenge is not only speed, but sustainable execution. I support teams with coaching, process discipline, and an environment where risk is raised early instead of hidden.
 
-**What this means:**
-- Coaching on estimation, planning, and execution rhythm
-- Retrospectives that drive continuous improvement
-- Process that reduces context switching and decision fatigue
-- Environment where people surface problems early
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Segoe UI, Arial, sans-serif', 'primaryColor': '#0d1117', 'primaryTextColor': '#f0f6fc', 'primaryBorderColor': '#7dd3fc', 'lineColor': '#7dd3fc', 'background': '#0d1117'}}}%%
+stateDiagram-v2
+    [*] --> Alignment
+    Alignment --> Execution
+    Execution --> RiskSurface
+    RiskSurface --> Retrospective
+    Retrospective --> Improvement
+    Improvement --> Alignment
+```
 
 ### Delivery Visibility & Reporting
 
 Leadership needs actionable intelligence, not activity reports. Evidence-based communication connects daily execution to business outcomes, surfaces risks early, and enables decisions grounded in reality.
 
-**What this means:**
-- Transparent progress against goals, not task counts
-- Clear visibility into blockers and dependencies
-- Early escalation of risks with mitigation options
-- Outcomes measured against the original intent
+| Phase | Status | Purpose |
+| --- | --- | --- |
+| Goals set | Aligned | Scope, outcome, and ownership are explicit |
+| Execution | Active | Work proceeds with a clear decision path |
+| Risk surface | Visible | Blockers and dependencies are surfaced early |
+| Mitigation | Managed | Escalation and action restore momentum |
+| Delivery | Confirmed | Outcomes are measured against original intent |
 
 ---
 
@@ -59,11 +90,11 @@ Leadership needs actionable intelligence, not activity reports. Evidence-based c
 | **Strategic Planning** | **Team Enablement** | **Delivery Outcomes** |
 | :--- | :--- | :--- |
 | Sprint facilitation & governance | Coaching & continuous improvement | Transparent reporting & risk visibility |
-| Dependency & conflict resolution | Process discipline & decision frameworks | Evidence-based communication |
-| Ownership alignment & clarity | Psychological safety & resilience | Business outcome measurement |
+| Dependency mapping & prioritization | Process discipline & decision frameworks | Evidence-based communication |
+| Ownership clarity & accountability | Psychological safety & resilience | Business outcome measurement |
 
 ---
 
-<div align="center" style="padding: 40px 0;">
-  <sub style="color:#8b949e; font-size: 12px;">Execution with clarity. Delivery with visibility.</sub>
+<div align="center" style="padding: 36px 0 10px;">
+  <sub style="color:#8b949e; font-family: monospace; font-size: 12px;">Execution with clarity. Delivery with visibility.</sub>
 </div>
