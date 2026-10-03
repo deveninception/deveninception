@@ -1,47 +1,65 @@
 <h1 align="center">Hi, I'm Deven Kashyap 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Software+Developer;Problem+Solver;Continuous+Learner;Building+Practical+Solutions" alt="typing animation" />
+  <img src="https://img.shields.io/badge/Agile-Delivery-00C7B7?style=for-the-badge&logo=githubactions&logoColor=white" alt="Agile Delivery" />
+  <img src="https://img.shields.io/badge/Scrum-Master-7C3AED?style=for-the-badge&logo=gitbook&logoColor=white" alt="Scrum Master" />
+  <img src="https://img.shields.io/badge/Team-Enablement-FF7F50?style=for-the-badge&logo=notion&logoColor=white" alt="Team Enablement" />
+  <img src="https://img.shields.io/badge/Delivery-Visibility-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Delivery Visibility" />
+</p>
+
+<p align="center">
+  I help teams make complex work easier to plan, discuss, and verify.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I build software and solutions that turn ideas into clear, usable outcomes. I enjoy learning, improving workflows, and collaborating on work that has real impact.
+I work across Agile delivery, team enablement, and practical delivery leadership.
 
-**💼 Currently:** Developing at Inception42.ai  
-**🎯 Focus:** Building practical, maintainable solutions  
-**📚 Mindset:** Clear communication, thoughtful execution, and trustworthy code  
-
----
-
-## 📁 My Repositories
-
-### Featured Projects
-
-| Repository | Description |
-|-----------|-------------|
-| **[Deven-Kashyap](https://github.com/deveninception/Deven-Kashyap)** | Private project work and development activity |
-| **[deveninception](https://github.com/deveninception/deveninception)** | Public profile and portfolio landing page |
+My focus is on:
+- creating clarity around priorities and dependencies
+- helping teams work in a sustainable, visible way
+- improving planning, review, and decision-making
+- making risks and progress easier to understand
 
 ---
 
-## 💡 What I Value
+## Core Focus
 
-- **Clear Communication** — Establishing shared understanding and making decisions visible
-- **Problem Solving** — Breaking down complex work into actionable steps
-- **Collaboration** — Working effectively with teams to ship real outcomes
-- **Continuous Learning** — Always improving skills and exploring new approaches
+- Scrum & Agile delivery
+- Team facilitation
+- Delivery reporting
+- Workflow clarity
+- Risk visibility
+- Continuous improvement
+
+---
+
+## Repositories
+
+| Repository | Purpose |
+|-----------|---------|
+| [Deven-Kashyap](https://github.com/deveninception/Deven-Kashyap) | Private project work and professional delivery work |
+| [deveninception](https://github.com/deveninception/deveninception) | Public profile and portfolio landing page |
 
 ---
 
-## 🤝 Let's Connect
-
-👉 **[Visit my GitHub](https://github.com/deveninception)**
-
----
+## Professional Profile
 
 <p align="center">
-  <em>Thanks for visiting. Let's build something meaningful together.</em>
+  <img src="https://img.shields.io/badge/Leadership-Change-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Leadership" />
+  <img src="https://img.shields.io/badge/Collaboration-Teamwork-00A676?style=for-the-badge&logo=gitlab&logoColor=white" alt="Collaboration" />
+  <img src="https://img.shields.io/badge/Continuous-Improvement-FFD166?style=for-the-badge&logo=githubactions&logoColor=black" alt="Continuous Improvement" />
+</p>
+
+---
+
+## Connect
+
+- GitHub: [deveninception](https://github.com/deveninception)
+- Work repo: [Deven-Kashyap](https://github.com/deveninception/Deven-Kashyap)
+
+<p align="center">
+  <em>Building clarity, momentum, and sustainable delivery.</em>
 </p>
