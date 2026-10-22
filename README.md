@@ -1,10 +1,10 @@
-<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 50px 20px; border-radius: 12px; margin-bottom: 30px; border: 1px solid rgba(125, 211, 252, 0.2);">
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 42px 20px; border-radius: 12px; margin-bottom: 26px; border: 1px solid rgba(125, 211, 252, 0.18);">
 
   <h1 style="margin: 0 0 10px 0; color: #7dd3fc; font-size: 30px; letter-spacing: 0.12em; font-weight: 700; text-transform: uppercase;">
     Deven Kashyap
   </h1>
 
-  <p style="margin: 0 0 8px 0; color: #f0f6fc; font-size: 18px; letter-spacing: 0.08em; font-weight: 600;">
+  <p style="margin: 0 0 8px 0; color: #f0f6fc; font-size: 17px; letter-spacing: 0.08em; font-weight: 600;">
     DELIVERY LEADERSHIP & EXECUTION
   </p>
 
@@ -18,13 +18,13 @@
 
 ## Overview
 
-I help teams turn strategy into execution by creating clarity around priorities, ownership, dependencies, and measurable outcomes. My focus is not simply moving work faster — it is building the conditions for reliable delivery, better decisions, and sustainable execution.
+I help teams turn strategic intent into reliable execution by creating alignment around priorities, ownership, dependencies, and measurable outcomes. My work is centered on improving decision quality, reducing delivery friction, and building sustainable execution rhythms that leaders and teams can trust.
 
 ```mermaid
 flowchart LR
-    A[Strategy] -->|clarify| B[Priorities]
+    A[Strategic intent] -->|clarify| B[Priorities]
     B -->|align| C[Ownership]
-    C -->|manage| D[Dependencies]
+    C -->|coordinate| D[Dependencies]
     D -->|measure| E[Delivery visibility]
     E -->|refine| F[Outcomes]
 
@@ -36,19 +36,19 @@ flowchart LR
 
 ---
 
-## What I do
+## What I help teams do
 
 ### Strategic clarity
-I work with teams and leaders to turn ambiguity into focused execution plans. This includes alignment on outcomes, decision rights, sequencing, and risk-aware prioritization.
+I turn ambiguity into focus by aligning teams around outcomes, decision rights, sequencing, and practical trade-offs.
 
 ### Team enablement
-I build operating rhythms that help teams stay aligned without losing momentum. That includes coaching, decision frameworks, and practical ways to improve accountability and delivery quality.
+I strengthen operating rhythms so teams can execute with better accountability, clearer communication, and healthier momentum.
 
 ### Delivery visibility
-Leadership needs actionable insight, not vanity reporting. I help teams surface blockers early, connect delivery progress to business outcomes, and make trade-offs explicit.
+I help leaders see real progress, identify risks early, and make informed decisions without relying on noisy or superficial reporting.
 
 ### Sustainable execution
-The goal is not just throughput. It is durable execution: a healthy pace, visible risk, clear ownership, and a team that can deliver repeatably without chaos.
+I build delivery systems that are not just fast, but durable — with clear ownership, visible blockers, and repeatable performance.
 
 ---
 
@@ -64,8 +64,8 @@ sequenceDiagram
     Leader->>PM: Define strategic intent
     PM->>Team: Align priorities and constraints
     Team->>PM: Confirm capacity and dependencies
-    PM->>Leader: Surface risks and trade-offs
-    Leader->>Team: Confirm clear decisions and ownership
+    PM->>Leader: Surface trade-offs and risks
+    Leader->>Team: Confirm clear ownership and decisions
     Team->>Leader: Deliver with visibility and accountability
 ```
 
@@ -76,17 +76,17 @@ sequenceDiagram
 | Capability | Focus |
 | --- | --- |
 | Strategic planning | Priorities, sequencing, dependency management |
-| Team enablement | Coaching, accountability, healthier execution habits |
-| Delivery governance | Decision-making, risk visibility, escalation paths |
-| Outcome measurement | Clarity on value, progress, and success criteria |
+| Team enablement | Coaching, accountability, operating rhythms |
+| Delivery governance | Decision-making, escalation paths, risk visibility |
+| Outcome measurement | Success criteria, business value, progress tracking |
 
 ---
 
 ## Typical outcomes
 
 - Clearer priorities across teams and stakeholders
-- Better ownership, accountability, and decision speed
-- Visible risks before they become delivery issues
+- Better ownership, decision speed, and accountability
+- Earlier visibility into risks and dependencies
 - More predictable execution with sustainable pace
 - Stronger alignment between business intent and delivery reality
 
@@ -94,7 +94,7 @@ sequenceDiagram
 
 ## Open to
 
-I work with leaders and teams that need stronger delivery discipline, sharper execution clarity, and more confident decision-making.
+I work with leaders and teams that need sharper delivery discipline, clearer execution paths, and stronger operational confidence.
 
 - Delivery leadership
 - Team operating model design
@@ -104,6 +104,6 @@ I work with leaders and teams that need stronger delivery discipline, sharper ex
 
 ---
 
-<div align="center" style="padding: 40px 0 10px;">
+<div align="center" style="padding: 28px 0 8px;">
   <sub style="color:#8b949e; font-family: monospace; font-size: 12px; letter-spacing: 0.08em;">Execution with clarity. Delivery with visibility.</sub>
 </div>
